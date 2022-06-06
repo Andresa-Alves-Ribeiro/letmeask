@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src="github/logo.svg" width="300px">
+  <img alt="Letmeask" src="github/layout.png" width="300px">
 </p>
 
 <p align="center">
@@ -26,8 +26,6 @@
 
 ## Deploy
 
-[Vercel](https://letmeask-beta.vercel.app)
-<br />
 [Firebase](https://letmeask-4e263.web.app/)
 
 ---
@@ -46,7 +44,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone [https://github.com/Andresa-Alves-Ribeiro/letmeask]
+$ git clone https://github.com/Andresa-Alves-Ribeiro/letmeask
 $ cd letmeask
 ```
 
