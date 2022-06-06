@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src="github/layout.png" target="_blank"/>
+    <img alt="Letmeask" title="Letmeask" src="github/layout.png"/>
 </h1>
 
 <br>
