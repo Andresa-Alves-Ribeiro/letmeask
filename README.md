@@ -24,9 +24,9 @@
 
 <br>
 
-## Deploy
+## Link do projeto
 
-[Firebase](https://letmeask-4e263.web.app/)
+https://letmeask-4e263.web.app/
 
 ---
 
