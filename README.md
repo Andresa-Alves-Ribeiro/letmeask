@@ -38,6 +38,7 @@ This project was developed using the following technologies:
 -   [Firebase](https://firebase.google.com/)
 -   [Sass](https://sass-lang.com/)
 -   [TypeScript](https://www.typescriptlang.org/)
+-   [Styled-Components](https://styled-components.com/)
 
 ## 🚀 Getting started
 
