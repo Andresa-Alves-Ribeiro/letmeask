@@ -64,7 +64,7 @@ Possui as funcionalidades de:
 | :placard: Vitrine.Dev |                                                                                                                                                    |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | :sparkles: Nome       | **Letmeask** |
-| :label: Tecnologias   | React.js, SASS, Typescript, Styled-Components, Figma |
+| :label: Tecnologias   | React.js, SASS, Typescript, Styled-Components, Figma, Firebase |
 
 ---
 
